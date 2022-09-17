@@ -10,7 +10,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [YouTube Music](#youtube-music)
 - [Twitter](#twitter)
 - [Reddit](#reddit)
-- [Instagram](#instagram)
 - [TikTok](#tiktok)
 - [Imgur](#imgur)
 - [Spotify](#spotify)
@@ -206,17 +205,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: https://www.troddit.com
 
 - [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
-
-### Instagram
-
-- [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
-  - Official instance: [https://bibliogram.art](https://bibliogram.art)
-  - Public instances: https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
-  - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
-
-- [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
-  - On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at https://github.com/mendel5/alternative-front-ends/issues/28 and https://austinhuang.me/barinsta .
-  - Fork of Barinsta: https://codeberg.org/avalos/barinsta - "This fork is unofficial unless community decides otherwise. C&D letters will be ignored."
 
 ### TikTok
 
